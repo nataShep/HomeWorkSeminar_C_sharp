@@ -1,0 +1,15 @@
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/bin/Debug/net6.0/HW_to_seminar1_ex6
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/bin/Debug/net6.0/HW_to_seminar1_ex6.deps.json
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/bin/Debug/net6.0/HW_to_seminar1_ex6.runtimeconfig.json
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/bin/Debug/net6.0/HW_to_seminar1_ex6.dll
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/bin/Debug/net6.0/HW_to_seminar1_ex6.pdb
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.csproj.AssemblyReference.cache
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.AssemblyInfoInputs.cache
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.AssemblyInfo.cs
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.csproj.CoreCompileInputs.cache
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.dll
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/refint/HW_to_seminar1_ex6.dll
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.pdb
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/HW_to_seminar1_ex6.genruntimeconfig.cache
+/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/Debug/net6.0/ref/HW_to_seminar1_ex6.dll

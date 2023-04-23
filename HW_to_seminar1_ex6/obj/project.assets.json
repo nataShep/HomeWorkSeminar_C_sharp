@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/natusa/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/HW_to_seminar1_ex6.csproj",
+      "projectName": "HW_to_seminar1_ex6",
+      "projectPath": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/HW_to_seminar1_ex6.csproj",
+      "packagesPath": "/Users/natusa/.nuget/packages/",
+      "outputPath": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex6/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/natusa/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
