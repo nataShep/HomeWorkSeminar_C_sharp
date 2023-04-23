@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1/HW_to_seminar1.csproj": {}
+    "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex2/HW_to_seminar1.csproj": {}
   },
   "projects": {
-    "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1/HW_to_seminar1.csproj": {
+    "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex2/HW_to_seminar1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1/HW_to_seminar1.csproj",
+        "projectUniqueName": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex2/HW_to_seminar1.csproj",
         "projectName": "HW_to_seminar1",
-        "projectPath": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1/HW_to_seminar1.csproj",
+        "projectPath": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex2/HW_to_seminar1.csproj",
         "packagesPath": "/Users/natusa/.nuget/packages/",
-        "outputPath": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1/obj/",
+        "outputPath": "/Users/natusa/Desktop/HWSeminar_C#/HW_to_seminar1_ex2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/natusa/.nuget/NuGet/NuGet.Config"
